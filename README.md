@@ -5,6 +5,6 @@
 
 The project structure contains 3 modules.
 
-1. container: The app as monolith. To be converted as mfe container.
-2. ama: Ama as monolith. To be converted to mfe.
-3. people: People as monolith. To be converted to mfe.
+1. container: Converted to mfe and linked to ama and people.
+2. ama: Converted to mfe and exposed to connect to container.
+3. people: Converted to mfe and exposed to connect to container.
